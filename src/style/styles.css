@@ -1,0 +1,42 @@
+body {
+    background: #C4C4C4;
+    color: #000
+}
+
+ul {
+  list-style-type: none;
+  font-size: 18px
+}
+
+i {
+  font-size: 50px;
+  color: red; 
+}
+
+i:hover {
+  color: #808080;
+  font-size: 50px;
+}
+
+.head h1 {
+  text-align: center;
+  font-size: 80px;
+}
+.head img {
+  height: 300px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+#aboutme {
+  font-size: 20px;
+}
+
+.social-media {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
